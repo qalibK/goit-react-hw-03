@@ -1,0 +1,10 @@
+.formContainer {
+  display: flex;
+  width: max-content;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 8px;
+  gap: 10px;
+  margin-bottom: 50px;
+}
